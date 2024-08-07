@@ -12,5 +12,5 @@ This repository provides a simple web server using the Gin-Gonic framework. The 
 
 ## Prerequisites
 
-- Go 1.16 or higher
-- Gin-Gonic framework
+- Go 
+- Gin framework
