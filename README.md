@@ -1,4 +1,4 @@
-# Gin-Gonic Pattern Matching and Highlighting API
+# Pattern Matching and Highlighting API
 
 ## Overview
 
